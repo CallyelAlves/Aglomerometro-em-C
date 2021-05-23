@@ -10,7 +10,7 @@ Devido ao vírus Covid-19 ter alto risco de contaminação, é bem acertado que 
 	
 ### Proposta
 
-	Desenvolver uma aplicação que controle a quantidade ideal de pessoas de acordo com a capacidade espacial de um determinado ambiente. Em posse das informações de câmeras de segurança ou sensores infravermelhos para contabilizar a quantidade de pessoas, considerando a área do local para classificar os níveis de aglomeração.  
+Desenvolver uma aplicação que controle a quantidade ideal de pessoas de acordo com a capacidade espacial de um determinado ambiente. Em posse das informações de câmeras de segurança ou sensores infravermelhos para contabilizar a quantidade de pessoas, considerando a área do local para classificar os níveis de aglomeração.  
 
 ### Cálculo Considerado: 
 	
